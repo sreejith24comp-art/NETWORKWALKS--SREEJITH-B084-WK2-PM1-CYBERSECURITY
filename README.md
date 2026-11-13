@@ -455,4 +455,4 @@ Mac addresses are not shown for privacy concern.
 
 The detailed penetration-testing report covering the modules above is available here:
 
-> 🔗 **Report link:** https://docs.google.com/document/d/1GtPMuU0eG4y8hwnVNV51CPtuk9gZnDdu/edit?usp=sharing&ouid=111247344041454589335&rtpof=true&sd=true
+> 🔗 **Report link:** https://docs.google.com/document/d/e/2PACX-1vT5bqkjgWYq9ZcMD7sL4g6dKPhgqlRFx2cLLvAa2wrtVFFaaHCKGJWaNPLR_XJkSAV0C7FbrU8BRo_T/pub
